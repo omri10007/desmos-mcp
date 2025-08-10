@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual envs
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# MCP previews (keep directory with .gitkeep)
+preview/*.html
+scripts/preview/*.html
+
+# Misc
+*.log
+*.tmp
+
+# Personal files (do not publish)
+מועד ב תשפד א.txt
+מחירים 2023 א’_240415_165058.pdf
